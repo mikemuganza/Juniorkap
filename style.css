@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mon premier site</title><link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Bienvenue chez BI-POP</h1>
+  <p>un délicieux sourire😃</p>
+  
+  <img src="logo.png"alt="Logo du site" width="250"img>
+ 
+  <br><br>      
+  <div class="social-bar">
+  <a href="https://Wa.me/243854308830?text=salut"target="_blank"><WhatsApp-btn><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
+     alt="WhatApp"
+     width="10"></a>
+  <a href="https://www.facebook.com/profile.php?id=61585763741033 "target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg"style="width:60px;height:auto;alt="Facebook"></a></div><style>h1{color:red;}a{display: inline-block;color: white;padding:15px 25px;text-decoratio=n:none;font-weight:bold;border-{co
